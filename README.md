@@ -3,3 +3,5 @@
 Sun Asterisk Git Training
 
 Awesome
+
+Thu 7 23-11-2019
