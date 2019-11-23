@@ -6,6 +6,7 @@ Sun Asterisk Git Training
 - Tên:
 - Năm sinh:
 - Trường đang theo học:
+- Thứ .. ngày .. tháng .. năm
 2. Sửa file: README.md
 - Bổ sung dòng: Thứ .. ngày .. tháng .. năm ..
 3. Xóa file: <sun_asterisk_họ_và_tên>.txt
