@@ -3,4 +3,4 @@
 Sun Asterisk Git Training
 
 Awesome
-Thứ .. ngày .. tháng .. năm ..
+Thứ 7 ngày 23 tháng 11 năm 2019
