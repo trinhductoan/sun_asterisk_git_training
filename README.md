@@ -3,3 +3,4 @@
 Sun Asterisk Git Training
 
 Awesome
+Thứ .. ngày .. tháng .. năm ..
